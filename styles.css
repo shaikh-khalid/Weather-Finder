@@ -291,3 +291,20 @@
     margin-top : auto;
     text-align : center;
   }
+
+  .btn-reset{
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    padding: 8px 32px;
+    margin-left: 15px;
+    border-radius: 5px;
+    background-color: #FF8C00;
+    color: #FCF8EC;
+    transition: background 0.3s ease-in-out;
+    width: 118px;
+  }
+
+  .text-center{
+    text-align: center;
+  }

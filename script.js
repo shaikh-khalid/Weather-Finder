@@ -49,3 +49,7 @@ form.addEventListener("submit", e => {
   form.reset();
   input.focus();
 });
+
+function resetCities(){
+  list.innerHTML = "";
+}
